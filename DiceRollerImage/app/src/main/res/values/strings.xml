@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplicativo Troca Dado</string>
+    <string name="diceRoller">Numero</string>
+    <string name="rollLabel">APERTA CARALHO</string>
+</resources>
